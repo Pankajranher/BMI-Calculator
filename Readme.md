@@ -105,6 +105,6 @@ Open with Live Server in VS Code
 
 **Pankaj Ranher**
 
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: https://linkedin.com/in/pankaj-ranher
 
 ---
