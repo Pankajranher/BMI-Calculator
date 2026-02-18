@@ -61,7 +61,7 @@ Based on the result, the app shows the BMI category:
 1. Download or clone the repository
 
 ```
-git clone https://github.com/yourusername/bmi-calculator.git
+https://github.com/Pankajranher/BMI-Calculator.git
 ```
 
 2. Open the project folder
