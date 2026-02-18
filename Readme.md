@@ -16,12 +16,6 @@ A modern and responsive **Body Mass Index (BMI) Calculator** built using **HTML,
 
 ---
 
-## 🖼️ Preview
-
-<img width="400" alt="BMI Calculator Preview" src="https://via.placeholder.com/400x300.png?text=BMI+Calculator+Preview">
-
----
-
 ## 📂 Project Structure
 
 ```
