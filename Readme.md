@@ -72,6 +72,10 @@ OR
 
 Open with Live Server in VS Code
 
+OR 
+
+Open the Link : https://pankajranher.github.io/BMI-Calculator/
+
 ---
 
 ## 📸 Screenshots
