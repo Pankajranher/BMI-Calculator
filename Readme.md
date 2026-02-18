@@ -78,8 +78,6 @@ Open the Link : https://pankajranher.github.io/BMI-Calculator/
 
 ---
 
-## 📸 Screenshots
-
 ### Main Interface
 
 * Animated background
